@@ -2,6 +2,6 @@
 
 variable  "example" {
   type        = "example"
-  location = "westus2"
+  location =  "westus2"
 }
 
